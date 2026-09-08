@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ICCOA 自动启动</string>
+    <string name="accessibility_description">在 360 全景返回桌面后自动启动 ICCOA</string>
+</resources>
